@@ -1,7 +1,12 @@
 ## Github sucks
 The files wouldn't sync so I had to restart my computer and add a new repository.
 What a joke.
-Anyway - this is from a fork repository - just copied over along with my new code.
+Anyway - original files are from the fork repository - just copied over along with my new code.
+## Added my plots to the figures folder
+See the code if you select edit
+I just reproduced the plots but wanted to get to know markdown better.
+
+
 Enjoy.
 
 
@@ -102,20 +107,20 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-2](figure/histplot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of chunk unnamed-chunk-3](figure/timeseriesplot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot of chunk unnamed-chunk-4](figure/timeseriesplot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of chunk unnamed-chunk-5](figure/quadplot4.png) 
 
