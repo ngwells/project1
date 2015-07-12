@@ -1,3 +1,10 @@
+## Github sucks
+The files wouldn't sync so I had to restart my computer and add a new repository.
+What a joke.
+Anyway - this is from a fork repository - just copied over along with my new code.
+Enjoy.
+
+
 ## Introduction
 
 This assignment uses data from
